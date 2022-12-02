@@ -84,10 +84,7 @@
 <br>
 
 <h3>Statistical Data :-</h3>
-<p>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electron44)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electron44&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
