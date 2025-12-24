@@ -214,8 +214,8 @@ _Tracking time with WakaTime..._
 - API Design ████████████████
 - Frontend Dev ██████████████░░
 - Backend Dev ███████████████░
-- Database Design ██████████████░░
-- System Architecture ███████████████░
+- Database Design █████████████░░
+- System Architecture ██████████████░
 
 </td>
 <td width="50%">
